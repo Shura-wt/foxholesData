@@ -1,0 +1,2252 @@
+[
+  {
+    "name": ".44",
+    "codeName": "RevolverAmmo",
+    "icon": "RevolverAmmoItemIcon.png",
+    "iconLocal": "icons/items/RevolverAmmoItemIcon.png",
+    "amountPerCrate": 40,
+    "category": "Ammunition",
+    "wikiUrl": "https://foxhole.wiki.gg/wiki/.44",
+    "id": 1
+  },
+  {
+    "name": "12.7mm",
+    "codeName": "MGAmmo",
+    "icon": "MachineGunAmmoIcon.png",
+    "iconLocal": "icons/items/MachineGunAmmoIcon.png",
+    "amountPerCrate": 20,
+    "category": "Ammunition",
+    "wikiUrl": "https://foxhole.wiki.gg/wiki/12.7mm",
+    "id": 2
+  },
+  {
+    "name": "120mm",
+    "codeName": "LightArtilleryAmmo",
+    "icon": "LightArtilleryAmmoItemIcon.png",
+    "iconLocal": "icons/items/LightArtilleryAmmoItemIcon.png",
+    "amountPerCrate": 5,
+    "category": "Ammunition",
+    "wikiUrl": "https://foxhole.wiki.gg/wiki/120mm",
+    "id": 3
+  },
+  {
+    "name": "14.5mm",
+    "codeName": "ATRifleAmmo",
+    "icon": "ATRifleAmmoItemIcon.png",
+    "iconLocal": "icons/items/ATRifleAmmoItemIcon.png",
+    "amountPerCrate": 10,
+    "category": "Ammunition",
+    "wikiUrl": "https://foxhole.wiki.gg/wiki/14.5mm",
+    "id": 4
+  },
+  {
+    "name": "150mm",
+    "codeName": "HeavyArtilleryAmmo",
+    "icon": "HeavyArtilleryAmmoItemIcon.png",
+    "iconLocal": "icons/items/HeavyArtilleryAmmoItemIcon.png",
+    "amountPerCrate": 5,
+    "category": "Ammunition",
+    "wikiUrl": "https://foxhole.wiki.gg/wiki/150mm",
+    "id": 5
+  },
+  {
+    "name": "20mm",
+    "codeName": "AircraftAmmo",
+    "icon": "AircraftAmmoIcon.png",
+    "iconLocal": "icons/items/AircraftAmmoIcon.png",
+    "amountPerCrate": 5,
+    "category": "Ammunition",
+    "wikiUrl": "https://foxhole.wiki.gg/wiki/20mm",
+    "id": 6
+  },
+  {
+    "name": "250mm \"Fury\" Shell",
+    "codeName": "MortarTankAmmoBR",
+    "icon": "MortarTankAmmoBRIcon.png",
+    "iconLocal": "icons/items/MortarTankAmmoBRIcon.png",
+    "amountPerCrate": 5,
+    "category": "Ammunition",
+    "wikiUrl": "https://foxhole.wiki.gg/wiki/250mm_%E2%80%9CFury%E2%80%9D_Shell",
+    "id": 7
+  },
+  {
+    "name": "250mm \"Purity\" Shell",
+    "codeName": "MortarTankAmmo",
+    "icon": "MortarTankIcon.png",
+    "iconLocal": "icons/items/MortarTankIcon.png",
+    "amountPerCrate": 5,
+    "category": "Ammunition",
+    "wikiUrl": "https://foxhole.wiki.gg/wiki/250mm_%E2%80%9CPurity%E2%80%9D_Shell",
+    "id": 8
+  },
+  {
+    "name": "300mm",
+    "codeName": "LRArtilleryAmmo",
+    "icon": "LRArtilleryAmmoItemIcon.png",
+    "iconLocal": "icons/items/LRArtilleryAmmoItemIcon.png",
+    "amountPerCrate": 1,
+    "category": "Ammunition",
+    "wikiUrl": "https://foxhole.wiki.gg/wiki/300mm",
+    "id": 9
+  },
+  {
+    "name": "30mm",
+    "codeName": "MiniTankAmmo",
+    "icon": "MiniTankAmmoItemIcon.png",
+    "iconLocal": "icons/items/MiniTankAmmoItemIcon.png",
+    "amountPerCrate": 20,
+    "category": "Ammunition",
+    "wikiUrl": "https://foxhole.wiki.gg/wiki/30mm",
+    "id": 10
+  },
+  {
+    "name": "3C-High Explosive Rocket",
+    "codeName": "HERocketAmmo",
+    "icon": "HERocketAmmoIcon.png",
+    "iconLocal": "icons/items/HERocketAmmoIcon.png",
+    "amountPerCrate": 1,
+    "category": "Ammunition",
+    "wikiUrl": "https://foxhole.wiki.gg/wiki/3C-High_Explosive_Rocket",
+    "id": 11
+  },
+  {
+    "name": "40mm",
+    "codeName": "LightTankAmmo",
+    "icon": "LightTankAmmoItemIcon.png",
+    "iconLocal": "icons/items/LightTankAmmoItemIcon.png",
+    "amountPerCrate": 20,
+    "category": "Ammunition",
+    "wikiUrl": "https://foxhole.wiki.gg/wiki/40mm",
+    "id": 12
+  },
+  {
+    "name": "4C-Fire Rocket",
+    "codeName": "FireRocketAmmo",
+    "icon": "FlameRocketAmmoIcon.png",
+    "iconLocal": "icons/items/FlameRocketAmmoIcon.png",
+    "amountPerCrate": 1,
+    "category": "Ammunition",
+    "wikiUrl": "https://foxhole.wiki.gg/wiki/4C-Fire_Rocket",
+    "id": 13
+  },
+  {
+    "name": "68mm",
+    "codeName": "ATAmmo",
+    "icon": "ATAmmoIcon.png",
+    "iconLocal": "icons/items/ATAmmoIcon.png",
+    "amountPerCrate": 20,
+    "category": "Ammunition",
+    "wikiUrl": "https://foxhole.wiki.gg/wiki/68mm",
+    "id": 14
+  },
+  {
+    "name": "7.62mm",
+    "codeName": "RifleAmmo",
+    "icon": "RifleAmmoItemIcon.png",
+    "iconLocal": "icons/items/RifleAmmoItemIcon.png",
+    "amountPerCrate": 40,
+    "category": "Ammunition",
+    "wikiUrl": "https://foxhole.wiki.gg/wiki/7.62mm",
+    "id": 15
+  },
+  {
+    "name": "7.92mm",
+    "codeName": "AssaultRifleAmmo",
+    "icon": "AssaultRifleAmmoItemIcon.png",
+    "iconLocal": "icons/items/AssaultRifleAmmoItemIcon.png",
+    "amountPerCrate": 30,
+    "category": "Ammunition",
+    "wikiUrl": "https://foxhole.wiki.gg/wiki/7.92mm",
+    "id": 16
+  },
+  {
+    "name": "75mm",
+    "codeName": "BattleTankAmmo",
+    "icon": "BattleTankAmmoItemIcon.png",
+    "iconLocal": "icons/items/BattleTankAmmoItemIcon.png",
+    "amountPerCrate": 1,
+    "category": "Ammunition",
+    "wikiUrl": "https://foxhole.wiki.gg/wiki/75mm",
+    "id": 17
+  },
+  {
+    "name": "8mm",
+    "codeName": "PistolAmmo",
+    "icon": "PistolAmmoItemIcon.png",
+    "iconLocal": "icons/items/PistolAmmoItemIcon.png",
+    "amountPerCrate": 40,
+    "category": "Ammunition",
+    "wikiUrl": "https://foxhole.wiki.gg/wiki/8mm",
+    "id": 18
+  },
+  {
+    "name": "912 Shrike Rounds",
+    "codeName": "DiveBomberAmmo",
+    "icon": "DiveBomberAmmoIcon.png",
+    "iconLocal": "icons/items/DiveBomberAmmoIcon.png",
+    "amountPerCrate": 5,
+    "category": "Ammunition",
+    "wikiUrl": "https://foxhole.wiki.gg/wiki/912_Shrike_Rounds",
+    "id": 19
+  },
+  {
+    "name": "94.5mm",
+    "codeName": "ATLargeAmmo",
+    "icon": "ATLargeAmmoIcon.png",
+    "iconLocal": "icons/items/ATLargeAmmoIcon.png",
+    "amountPerCrate": 1,
+    "category": "Ammunition",
+    "wikiUrl": "https://foxhole.wiki.gg/wiki/94.5mm",
+    "id": 20
+  },
+  {
+    "name": "950-70b Anti-Aircraft Shell",
+    "codeName": "AAAmmo",
+    "icon": "AAAmmoIcon.png",
+    "iconLocal": "icons/items/AAAmmoIcon.png",
+    "amountPerCrate": 5,
+    "category": "Ammunition",
+    "wikiUrl": "https://foxhole.wiki.gg/wiki/950-70b_Anti-Aircraft_Shell",
+    "id": 21
+  },
+  {
+    "name": "9mm",
+    "codeName": "SMGAmmo",
+    "icon": "SubMachineGunAmmoIcon.png",
+    "iconLocal": "icons/items/SubMachineGunAmmoIcon.png",
+    "amountPerCrate": 40,
+    "category": "Ammunition",
+    "wikiUrl": "https://foxhole.wiki.gg/wiki/9mm",
+    "id": 22
+  },
+  {
+    "name": "A3 Harpa Fragmentation Grenade",
+    "codeName": "GrenadeW",
+    "icon": "GrenadeItemIcon.png",
+    "iconLocal": "icons/items/GrenadeItemIcon.png",
+    "amountPerCrate": 20,
+    "category": "Ammunition",
+    "wikiUrl": "https://foxhole.wiki.gg/wiki/A3_Harpa_Fragmentation_Grenade",
+    "id": 23
+  },
+  {
+    "name": "AP/RPG",
+    "codeName": "ATRPGAmmo",
+    "icon": "ATRpgAmmoItemIcon.png",
+    "iconLocal": "icons/items/ATRpgAmmoItemIcon.png",
+    "amountPerCrate": 15,
+    "category": "Ammunition",
+    "wikiUrl": "https://foxhole.wiki.gg/wiki/AP%E2%A7%B8RPG",
+    "id": 24
+  },
+  {
+    "name": "ARC/RPG",
+    "codeName": "ATRPGIndirectAmmo",
+    "icon": "ATMortarAmmoItemIcon.png",
+    "iconLocal": "icons/items/ATMortarAmmoItemIcon.png",
+    "amountPerCrate": 15,
+    "category": "Ammunition",
+    "wikiUrl": "https://foxhole.wiki.gg/wiki/ARC%E2%A7%B8RPG",
+    "id": 25
+  },
+  {
+    "name": "B2 Varsi Anti-Tank Grenade",
+    "codeName": "ATLaunchedGrenadeW",
+    "icon": "ATLaunchedGrenadeWIcon.png",
+    "iconLocal": "icons/items/ATLaunchedGrenadeWIcon.png",
+    "amountPerCrate": 20,
+    "category": "Ammunition",
+    "wikiUrl": "https://foxhole.wiki.gg/wiki/B2_Varsi_Anti-Tank_Grenade",
+    "id": 26
+  },
+  {
+    "name": "Buckshot",
+    "codeName": "ShotgunAmmo",
+    "icon": "ShotgunAmmoItemIcon.png",
+    "iconLocal": "icons/items/ShotgunAmmoItemIcon.png",
+    "amountPerCrate": 40,
+    "category": "Ammunition",
+    "wikiUrl": "https://foxhole.wiki.gg/wiki/Buckshot",
+    "id": 27
+  },
+  {
+    "name": "Flame Ammo",
+    "codeName": "FlameAmmo",
+    "icon": "FlameAmmoIcon.png",
+    "iconLocal": "icons/items/FlameAmmoIcon.png",
+    "amountPerCrate": 1,
+    "category": "Ammunition",
+    "wikiUrl": "https://foxhole.wiki.gg/wiki/Flame_Ammo",
+    "id": 28
+  },
+  {
+    "name": "Flare Mortar Shell",
+    "codeName": "MortarAmmoFL",
+    "icon": "MortarAmmoIconFlare.png",
+    "iconLocal": "icons/items/MortarAmmoIcon.png",
+    "amountPerCrate": 15,
+    "category": "Ammunition",
+    "wikiUrl": "https://foxhole.wiki.gg/wiki/Flare_Mortar_Shell",
+    "id": 29
+  },
+  {
+    "name": "Green Ash Grenade",
+    "codeName": "GreenAsh",
+    "icon": "DeadlyGas01Icon.png",
+    "iconLocal": "icons/items/DeadlyGas01Icon.png",
+    "amountPerCrate": 10,
+    "category": "Ammunition",
+    "wikiUrl": "https://foxhole.wiki.gg/wiki/Green_Ash_Grenade",
+    "id": 30
+  },
+  {
+    "name": "Incendiary Mortar Shell",
+    "codeName": "MortarAmmoFlame",
+    "icon": "MortarAmmoIconFlame.png",
+    "iconLocal": "icons/items/MortarAmmoIcon.png",
+    "amountPerCrate": 15,
+    "category": "Ammunition",
+    "wikiUrl": "https://foxhole.wiki.gg/wiki/Incendiary_Mortar_Shell",
+    "id": 31
+  },
+  {
+    "name": "Mark II Raidbreaker",
+    "codeName": "BomberAmmo",
+    "icon": "AerialBombsIcon.png",
+    "iconLocal": "icons/items/AerialBombsIcon.png",
+    "amountPerCrate": 5,
+    "category": "Ammunition",
+    "wikiUrl": "https://foxhole.wiki.gg/wiki/Mark_II_Raidbreaker",
+    "id": 32
+  },
+  {
+    "name": "Model-7 “Evie”",
+    "codeName": "DepthChargeAmmo",
+    "icon": "DepthChargeIcon.png",
+    "iconLocal": "icons/items/DepthChargeIcon.png",
+    "amountPerCrate": 1,
+    "category": "Ammunition",
+    "wikiUrl": "https://foxhole.wiki.gg/wiki/Model-7_%E2%80%9CEvie%E2%80%9D",
+    "id": 33
+  },
+  {
+    "name": "Mortar Shell",
+    "codeName": "MortarAmmo",
+    "icon": "MortarAmmoIcon.png",
+    "iconLocal": "icons/items/MortarAmmoIcon.png",
+    "amountPerCrate": 15,
+    "category": "Ammunition",
+    "wikiUrl": "https://foxhole.wiki.gg/wiki/Mortar_Shell",
+    "id": 34
+  },
+  {
+    "name": "PT-815 Smoke Grenade",
+    "codeName": "SmokeGrenade",
+    "icon": "Smokegrenadeicon1.png",
+    "iconLocal": "icons/items/Smokegrenadeicon1.png",
+    "amountPerCrate": 15,
+    "category": "Ammunition",
+    "wikiUrl": "https://foxhole.wiki.gg/wiki/PT-815_Smoke_Grenade",
+    "id": 35
+  },
+  {
+    "name": "Quillback Torpedo",
+    "codeName": "MiniTorpedoAmmo",
+    "icon": "MiniTorpedoAmmoIcon.png",
+    "iconLocal": "icons/items/MiniTorpedoAmmoIcon.png",
+    "amountPerCrate": 5,
+    "category": "Ammunition",
+    "wikiUrl": "https://foxhole.wiki.gg/wiki/Quillback_Torpedo",
+    "id": 36
+  },
+  {
+    "name": "RPG",
+    "codeName": "RpgAmmo",
+    "icon": "RpgAmmoItemIcon.png",
+    "iconLocal": "icons/items/RpgAmmoItemIcon.png",
+    "amountPerCrate": 15,
+    "category": "Ammunition",
+    "wikiUrl": "https://foxhole.wiki.gg/wiki/RPG",
+    "id": 37
+  },
+  {
+    "name": "Shatter Missile",
+    "codeName": "DemolitionRocketAmmo",
+    "icon": "DemolitionRocketAmmoIcon.png",
+    "iconLocal": "icons/items/DemolitionRocketAmmoIcon.png",
+    "amountPerCrate": 5,
+    "category": "Ammunition",
+    "wikiUrl": "https://foxhole.wiki.gg/wiki/Shatter_Missile",
+    "id": 38
+  },
+  {
+    "name": "Shrapnel Mortar Shell",
+    "codeName": "MortarAmmoSH",
+    "icon": "MortarAmmoIconShrapnel.png",
+    "iconLocal": "icons/items/MortarAmmoIcon.png",
+    "amountPerCrate": 15,
+    "category": "Ammunition",
+    "wikiUrl": "https://foxhole.wiki.gg/wiki/Shrapnel_Mortar_Shell",
+    "id": 39
+  },
+  {
+    "name": "Tremola Grenade GPb-1",
+    "codeName": "HELaunchedGrenade",
+    "icon": "HELaunchedGrenadeItemIcon.png",
+    "iconLocal": "icons/items/HELaunchedGrenadeItemIcon.png",
+    "amountPerCrate": 20,
+    "category": "Ammunition",
+    "wikiUrl": "https://foxhole.wiki.gg/wiki/Tremola_Grenade_GPb-1",
+    "id": 40
+  },
+  {
+    "name": "Willow's Bane Ammo",
+    "codeName": "FlameBackpackW",
+    "icon": "FlamePackWIcon.png",
+    "iconLocal": "icons/items/FlamePackWIcon.png",
+    "amountPerCrate": 10,
+    "category": "Ammunition",
+    "wikiUrl": "https://foxhole.wiki.gg/wiki/Willow%27s_Bane_Ammo",
+    "id": 41
+  },
+  {
+    "name": "“Molten Wind” v.II Ammo",
+    "codeName": "FlameBackpackC",
+    "icon": "FlamePackCIcon.png",
+    "iconLocal": "icons/items/FlamePackCIcon.png",
+    "amountPerCrate": 10,
+    "category": "Ammunition",
+    "wikiUrl": "https://foxhole.wiki.gg/wiki/%E2%80%9CMolten_Wind%E2%80%9D_v.II_Ammo",
+    "id": 42
+  },
+  {
+    "name": "Binoculars",
+    "codeName": "Binoculars",
+    "icon": "BinocularsItemIcon.png",
+    "iconLocal": "icons/items/BinocularsItemIcon.png",
+    "amountPerCrate": 5,
+    "category": "Equipment",
+    "wikiUrl": "https://foxhole.wiki.gg/wiki/Binoculars",
+    "id": 43
+  },
+  {
+    "name": "Excavation (No Materials)",
+    "codeName": "Excavation",
+    "icon": "ShovelIcon.png",
+    "iconLocal": "icons/items/ShovelIcon.png",
+    "amountPerCrate": 10,
+    "category": "Equipment",
+    "wikiUrl": "",
+    "id": 44
+  },
+  {
+    "name": "Gas Mask",
+    "codeName": "GasMask",
+    "icon": "GasmaskIcon.png",
+    "iconLocal": "icons/items/GasmaskIcon.png",
+    "amountPerCrate": 20,
+    "category": "Equipment",
+    "wikiUrl": "https://foxhole.wiki.gg/wiki/Gas_Mask",
+    "id": 45
+  },
+  {
+    "name": "Gas Mask Filter",
+    "codeName": "GasMaskFilter",
+    "icon": "GasMaskFilterIcon.png",
+    "iconLocal": "icons/items/GasMaskFilterIcon.png",
+    "amountPerCrate": 20,
+    "category": "Equipment",
+    "wikiUrl": "https://foxhole.wiki.gg/wiki/Gas_Mask_Filter",
+    "id": 46
+  },
+  {
+    "name": "Hammer",
+    "codeName": "WorkHammer",
+    "icon": "HammerIcon.png",
+    "iconLocal": "icons/items/HammerIcon.png",
+    "amountPerCrate": 20,
+    "category": "Equipment",
+    "wikiUrl": "",
+    "id": 47
+  },
+  {
+    "name": "Havoc Charge Detonator",
+    "codeName": "SatchelChargeT",
+    "icon": "SatchelChargeTIcon.png",
+    "iconLocal": "icons/items/SatchelChargeTIcon.png",
+    "amountPerCrate": 5,
+    "category": "Equipment",
+    "wikiUrl": "",
+    "id": 48
+  },
+  {
+    "name": "Legion Vexillum",
+    "codeName": "BannerTC",
+    "icon": "BannerTCItemIcon.png",
+    "iconLocal": "icons/items/BannerTCItemIcon.png",
+    "amountPerCrate": 5,
+    "category": "Equipment",
+    "wikiUrl": "https://foxhole.wiki.gg/wiki/Legion_Vexillum",
+    "id": 49
+  },
+  {
+    "name": "Liaison Transmitter",
+    "codeName": "RadioAircraft",
+    "icon": "RadioAircraftItemIcon.png",
+    "iconLocal": "icons/items/RadioItemIcon.png",
+    "amountPerCrate": 5,
+    "category": "Equipment",
+    "wikiUrl": "https://foxhole.wiki.gg/wiki/Liaison_Transmitter",
+    "id": 50
+  },
+  {
+    "name": "Listening Kit",
+    "codeName": "ListeningKit",
+    "icon": "ListeningKitIcon.png",
+    "iconLocal": "icons/items/ListeningKitIcon.png",
+    "amountPerCrate": 5,
+    "category": "Equipment",
+    "wikiUrl": "https://foxhole.wiki.gg/wiki/Listening_Kit",
+    "id": 51
+  },
+  {
+    "name": "Paratrooper’s Ruck",
+    "codeName": "ParatrooperBackpack",
+    "icon": "ParatrooperBackpackItemIcon.png",
+    "iconLocal": "icons/items/ParatrooperBackpackItemIcon.png",
+    "amountPerCrate": 10,
+    "category": "Equipment",
+    "wikiUrl": "https://foxhole.wiki.gg/wiki/Paratrooper%27s_Ruck",
+    "id": 52
+  },
+  {
+    "name": "Radio",
+    "codeName": "Radio",
+    "icon": "RadioItemIcon.png",
+    "iconLocal": "icons/items/RadioItemIcon.png",
+    "amountPerCrate": 5,
+    "category": "Equipment",
+    "wikiUrl": "https://foxhole.wiki.gg/wiki/Radio",
+    "id": 53
+  },
+  {
+    "name": "Radio Backpack",
+    "codeName": "RadioBackpack",
+    "icon": "RadioBackpackItemIcon.png",
+    "iconLocal": "icons/items/RadioBackpackItemIcon.png",
+    "amountPerCrate": 5,
+    "category": "Equipment",
+    "wikiUrl": "https://foxhole.wiki.gg/wiki/Radio_Backpack",
+    "id": 54
+  },
+  {
+    "name": "Reserve Power",
+    "codeName": "ReservePower",
+    "icon": "ReservePower.png",
+    "iconLocal": "icons/items/ReservePower.png",
+    "amountPerCrate": 10,
+    "category": "Equipment",
+    "wikiUrl": "",
+    "id": 55
+  },
+  {
+    "name": "Shovel",
+    "codeName": "Shovel",
+    "icon": "ShovelIcon.png",
+    "iconLocal": "icons/items/ShovelIcon.png",
+    "amountPerCrate": 10,
+    "category": "Equipment",
+    "wikiUrl": "https://foxhole.wiki.gg/wiki/Shovel",
+    "id": 56
+  },
+  {
+    "name": "Sledge Hammer",
+    "codeName": "SledgeHammer",
+    "icon": "SledgeHammerItemIcon.png",
+    "iconLocal": "icons/items/SledgeHammerItemIcon.png",
+    "amountPerCrate": 10,
+    "category": "Equipment",
+    "wikiUrl": "https://foxhole.wiki.gg/wiki/Sledge_Hammer",
+    "id": 57
+  },
+  {
+    "name": "Tripod",
+    "codeName": "Tripod",
+    "icon": "DeployableTripodItemIcon.png",
+    "iconLocal": "icons/items/DeployableTripodItemIcon.png",
+    "amountPerCrate": 5,
+    "category": "Equipment",
+    "wikiUrl": "https://foxhole.wiki.gg/wiki/Tripod",
+    "id": 58
+  },
+  {
+    "name": "Unexploded Ordnance",
+    "codeName": "UnexplodedOrdnance",
+    "icon": "UnexplodedOrdnanceIcon.png",
+    "iconLocal": "icons/items/UnexplodedOrdnanceIcon.png",
+    "amountPerCrate": 5,
+    "category": "Equipment",
+    "wikiUrl": "",
+    "id": 59
+  },
+  {
+    "name": "War Ensign",
+    "codeName": "BannerTW",
+    "icon": "BannerTWItemIcon.png",
+    "iconLocal": "icons/items/BannerTWItemIcon.png",
+    "amountPerCrate": 5,
+    "category": "Equipment",
+    "wikiUrl": "https://foxhole.wiki.gg/wiki/War_Ensign",
+    "id": 60
+  },
+  {
+    "name": "Water Bucket",
+    "codeName": "WaterBucket",
+    "icon": "LoreBucket.png",
+    "iconLocal": "icons/items/LoreBucket.png",
+    "amountPerCrate": 50,
+    "category": "Equipment",
+    "wikiUrl": "https://foxhole.wiki.gg/wiki/Water_Bucket",
+    "id": 61
+  },
+  {
+    "name": "Wind Sock",
+    "codeName": "WindsockT",
+    "icon": "WindsockItemIcon.png",
+    "iconLocal": "icons/items/WindsockItemIcon.png",
+    "amountPerCrate": 5,
+    "category": "Equipment",
+    "wikiUrl": "https://foxhole.wiki.gg/wiki/Wind_Sock",
+    "id": 62
+  },
+  {
+    "name": "Wrench",
+    "codeName": "WorkWrench",
+    "icon": "WorkWrench.png",
+    "iconLocal": "icons/items/WorkWrench.png",
+    "amountPerCrate": 5,
+    "category": "Equipment",
+    "wikiUrl": "https://foxhole.wiki.gg/wiki/Wrench",
+    "id": 63
+  },
+  {
+    "name": "Moray Torpedo",
+    "codeName": "TorpedoAmmo",
+    "icon": "TorpedoIcon.png",
+    "iconLocal": "icons/items/TorpedoIcon.png",
+    "amountPerCrate": 1,
+    "category": "Heavy Ammunition",
+    "wikiUrl": "",
+    "id": 64
+  },
+  {
+    "name": "Aluminum Alloy",
+    "codeName": "AluminumA",
+    "icon": "ResouceAluminumRefinedIcon.png",
+    "iconLocal": "icons/items/ResouceAluminumRefinedIcon.png",
+    "amountPerCrate": 20,
+    "category": "Materials",
+    "wikiUrl": "https://foxhole.wiki.gg/wiki/Aluminum_Alloy",
+    "id": 65
+  },
+  {
+    "name": "Basic Materials",
+    "codeName": "Cloth",
+    "icon": "BasicMaterialsIcon.png",
+    "iconLocal": "icons/items/BasicMaterialsIcon.png",
+    "amountPerCrate": 100,
+    "category": "Materials",
+    "wikiUrl": "https://foxhole.wiki.gg/wiki/Basic_Materials",
+    "id": 66
+  },
+  {
+    "name": "Construction Materials",
+    "codeName": "FacilityMaterials1",
+    "icon": "ConstructionMaterialsIcon.png",
+    "iconLocal": "icons/items/ConstructionMaterialsIcon.png",
+    "amountPerCrate": 20,
+    "category": "Materials",
+    "wikiUrl": "https://foxhole.wiki.gg/wiki/Construction_Materials",
+    "id": 67
+  },
+  {
+    "name": "Copper Alloy",
+    "codeName": "CopperA",
+    "icon": "ResourceCopperRefinedIcon.png",
+    "iconLocal": "icons/items/ResourceCopperRefinedIcon.png",
+    "amountPerCrate": 20,
+    "category": "Materials",
+    "wikiUrl": "https://foxhole.wiki.gg/wiki/Copper_Alloy",
+    "id": 68
+  },
+  {
+    "name": "Diesel",
+    "codeName": "Diesel",
+    "icon": "ResourceFuelIcon.png",
+    "iconLocal": "icons/items/ResourceFuelIcon.png",
+    "amountPerCrate": 1,
+    "category": "Materials",
+    "wikiUrl": "https://foxhole.wiki.gg/wiki/Diesel",
+    "id": 69
+  },
+  {
+    "name": "Enriched Oil",
+    "codeName": "FacilityOil2",
+    "icon": "FacilityOil2Icon.png",
+    "iconLocal": "icons/items/FacilityOil2Icon.png",
+    "amountPerCrate": 1,
+    "category": "Materials",
+    "wikiUrl": "https://foxhole.wiki.gg/wiki/Enriched_Oil",
+    "id": 70
+  },
+  {
+    "name": "Explosive Powder",
+    "codeName": "Explosive",
+    "icon": "ExplosiveMaterialIcon.png",
+    "iconLocal": "icons/items/ExplosiveMaterialIcon.png",
+    "amountPerCrate": 40,
+    "category": "Materials",
+    "wikiUrl": "https://foxhole.wiki.gg/wiki/Explosive_Powder",
+    "id": 71
+  },
+  {
+    "name": "Gravel",
+    "codeName": "GroundMaterials",
+    "icon": "GroundMaterialsIcon.png",
+    "iconLocal": "icons/items/GroundMaterialsIcon.png",
+    "amountPerCrate": 20,
+    "category": "Materials",
+    "wikiUrl": "https://foxhole.wiki.gg/wiki/Gravel",
+    "id": 72
+  },
+  {
+    "name": "Heavy Explosive Powder",
+    "codeName": "HeavyExplosive",
+    "icon": "HeavyExplosiveMaterialsIcon.png",
+    "iconLocal": "icons/items/HeavyExplosiveMaterialsIcon.png",
+    "amountPerCrate": 30,
+    "category": "Materials",
+    "wikiUrl": "https://foxhole.wiki.gg/wiki/Heavy_Explosive_Powder",
+    "id": 73
+  },
+  {
+    "name": "Heavy Oil",
+    "codeName": "FacilityOil1",
+    "icon": "FacilityOil1Icon.png",
+    "iconLocal": "icons/items/FacilityOil1Icon.png",
+    "amountPerCrate": 1,
+    "category": "Materials",
+    "wikiUrl": "https://foxhole.wiki.gg/wiki/Heavy_Oil",
+    "id": 74
+  },
+  {
+    "name": "Iron Alloy",
+    "codeName": "IronA",
+    "icon": "ResouceIronRefinedIcon.png",
+    "iconLocal": "icons/items/ResouceIronRefinedIcon.png",
+    "amountPerCrate": 20,
+    "category": "Materials",
+    "wikiUrl": "https://foxhole.wiki.gg/wiki/Iron_Alloy",
+    "id": 75
+  },
+  {
+    "name": "Petrol",
+    "codeName": "Petrol",
+    "icon": "RefinedFuelIcon.png",
+    "iconLocal": "icons/items/RefinedFuelIcon.png",
+    "amountPerCrate": 1,
+    "category": "Materials",
+    "wikiUrl": "https://foxhole.wiki.gg/wiki/Petrol",
+    "id": 76
+  },
+  {
+    "name": "Refined Materials",
+    "codeName": "Wood",
+    "icon": "RefinedMaterialsIcon.png",
+    "iconLocal": "icons/items/RefinedMaterialsIcon.png",
+    "amountPerCrate": 20,
+    "category": "Materials",
+    "wikiUrl": "https://foxhole.wiki.gg/wiki/Refined_Materials",
+    "id": 77
+  },
+  {
+    "name": "Relic Materials",
+    "codeName": "RelicMaterials",
+    "icon": "RelicMaterialItemIcon.png",
+    "iconLocal": "icons/items/RelicMaterialItemIcon.png",
+    "amountPerCrate": 20,
+    "category": "Materials",
+    "wikiUrl": "https://foxhole.wiki.gg/wiki/Relic_Materials",
+    "id": 78
+  },
+  {
+    "name": "Steel Construction Materials",
+    "codeName": "FacilityMaterials3",
+    "icon": "SteelConstructionMaterialsIcon.png",
+    "iconLocal": "icons/items/SteelConstructionMaterialsIcon.png",
+    "amountPerCrate": 1,
+    "category": "Materials",
+    "wikiUrl": "https://foxhole.wiki.gg/wiki/Steel_Construction_Materials",
+    "id": 79
+  },
+  {
+    "name": "Assembly Materials I",
+    "codeName": "FacilityMaterials4",
+    "icon": "AssemblyMaterials1Icon.png",
+    "iconLocal": "icons/items/FacilityMaterials4Icon.png",
+    "amountPerCrate": 1,
+    "category": "Materials (Large)",
+    "wikiUrl": "https://foxhole.wiki.gg/wiki/Assembly_Materials_I",
+    "id": 80
+  },
+  {
+    "name": "Assembly Materials II",
+    "codeName": "FacilityMaterials5",
+    "icon": "AssemblyMaterials2Icon.png",
+    "iconLocal": "icons/items/FacilityMaterials4Icon.png",
+    "amountPerCrate": 1,
+    "category": "Materials (Large)",
+    "wikiUrl": "https://foxhole.wiki.gg/wiki/Assembly_Materials_II",
+    "id": 81
+  },
+  {
+    "name": "Assembly Materials III",
+    "codeName": "FacilityMaterials6",
+    "icon": "AssemblyMaterials3Icon.png",
+    "iconLocal": "icons/items/FacilityMaterials4Icon.png",
+    "amountPerCrate": 1,
+    "category": "Materials (Large)",
+    "wikiUrl": "https://foxhole.wiki.gg/wiki/Assembly_Materials_III",
+    "id": 82
+  },
+  {
+    "name": "Assembly Materials IV",
+    "codeName": "FacilityMaterials7",
+    "icon": "AssemblyMaterials4Icon.png",
+    "iconLocal": "icons/items/FacilityMaterials4Icon.png",
+    "amountPerCrate": 1,
+    "category": "Materials (Large)",
+    "wikiUrl": "https://foxhole.wiki.gg/wiki/Assembly_Materials_IV",
+    "id": 83
+  },
+  {
+    "name": "Assembly Materials V",
+    "codeName": "FacilityMaterials8",
+    "icon": "AssemblyMaterials5Icon.png",
+    "iconLocal": "icons/items/FacilityMaterials4Icon.png",
+    "amountPerCrate": 1,
+    "category": "Materials (Large)",
+    "wikiUrl": "https://foxhole.wiki.gg/wiki/Assembly_Materials_V",
+    "id": 84
+  },
+  {
+    "name": "Barbed Wire",
+    "codeName": "BarbedWireMaterials",
+    "icon": "BarbedWireMaterialItemIcon.png",
+    "iconLocal": "icons/items/BarbedWireMaterialItemIcon.png",
+    "amountPerCrate": 5,
+    "category": "Materials (Large)",
+    "wikiUrl": "https://foxhole.wiki.gg/wiki/Barbed_Wire_(Material)",
+    "id": 85
+  },
+  {
+    "name": "Metal Beam",
+    "codeName": "MetalBeamMaterials",
+    "icon": "MetalBeamMaterialItemIcon.png",
+    "iconLocal": "icons/items/MetalBeamMaterialItemIcon.png",
+    "amountPerCrate": 5,
+    "category": "Materials (Large)",
+    "wikiUrl": "https://foxhole.wiki.gg/wiki/Metal_Beam",
+    "id": 86
+  },
+  {
+    "name": "Pipe",
+    "codeName": "PipeMaterials",
+    "icon": "EngineRoomPipeIcon.png",
+    "iconLocal": "icons/structures/EngineRoomPipeIcon.png",
+    "amountPerCrate": 2,
+    "category": "Materials (Large)",
+    "wikiUrl": "https://foxhole.wiki.gg/wiki/Pipe",
+    "id": 87
+  },
+  {
+    "name": "Processed Construction Materials",
+    "codeName": "FacilityMaterials2",
+    "icon": "ProcessedConstructionMaterialsIcon.png",
+    "iconLocal": "icons/items/ProcessedConstructionMaterialsIcon.png",
+    "amountPerCrate": 1,
+    "category": "Materials (Large)",
+    "wikiUrl": "https://foxhole.wiki.gg/wiki/Processed_Construction_Materials",
+    "id": 88
+  },
+  {
+    "name": "Rare Alloys",
+    "codeName": "FacilityMaterials9",
+    "icon": "FacilityMaterials09Icon.png",
+    "iconLocal": "icons/items/FacilityMaterials09Icon.png",
+    "amountPerCrate": 1,
+    "category": "Materials (Large)",
+    "wikiUrl": "https://foxhole.wiki.gg/wiki/Rare_Alloys",
+    "id": 89
+  },
+  {
+    "name": "Sandbag",
+    "codeName": "SandbagMaterials",
+    "icon": "SandbagMaterialItemIcon.png",
+    "iconLocal": "icons/items/SandbagMaterialItemIcon.png",
+    "amountPerCrate": 5,
+    "category": "Materials (Large)",
+    "wikiUrl": "https://foxhole.wiki.gg/wiki/Sandbag",
+    "id": 90
+  },
+  {
+    "name": "Thermal Shielding",
+    "codeName": "FacilityMaterials11",
+    "icon": "FacilityMaterials11Icon.png",
+    "iconLocal": "icons/items/FacilityMaterials11Icon.png",
+    "amountPerCrate": 1,
+    "category": "Materials (Large)",
+    "wikiUrl": "https://foxhole.wiki.gg/wiki/Thermal_Shielding",
+    "id": 91
+  },
+  {
+    "name": "Unstable Substances",
+    "codeName": "FacilityMaterials10",
+    "icon": "FacilityMaterials10Icon.png",
+    "iconLocal": "icons/items/FacilityMaterials10Icon.png",
+    "amountPerCrate": 1,
+    "category": "Materials (Large)",
+    "wikiUrl": "https://foxhole.wiki.gg/wiki/Unstable_Substances",
+    "id": 92
+  },
+  {
+    "name": "Oil",
+    "codeName": "Oil",
+    "icon": "OilIcon.png",
+    "iconLocal": "icons/items/OilIcon.png",
+    "amountPerCrate": 1,
+    "category": "Materials (Liquid)",
+    "wikiUrl": "https://foxhole.wiki.gg/wiki/Oil",
+    "id": 93
+  },
+  {
+    "name": "Water",
+    "codeName": "Water",
+    "icon": "WaterIcon.png",
+    "iconLocal": "icons/items/WaterIcon.png",
+    "amountPerCrate": 1,
+    "category": "Materials (Liquid)",
+    "wikiUrl": "https://foxhole.wiki.gg/wiki/Water",
+    "id": 94
+  },
+  {
+    "name": "Bandages",
+    "codeName": "Bandages",
+    "icon": "BandagesItemIcon.png",
+    "iconLocal": "icons/items/BandagesItemIcon.png",
+    "amountPerCrate": 50,
+    "category": "Medical",
+    "wikiUrl": "https://foxhole.wiki.gg/wiki/Bandage",
+    "id": 95
+  },
+  {
+    "name": "Blood Plasma",
+    "codeName": "BloodPlasma",
+    "icon": "BloodPlasmaItemIcon.png",
+    "iconLocal": "icons/items/BloodPlasmaItemIcon.png",
+    "amountPerCrate": 50,
+    "category": "Medical",
+    "wikiUrl": "https://foxhole.wiki.gg/wiki/Blood_Plasma",
+    "id": 96
+  },
+  {
+    "name": "Critically Wounded Soldier",
+    "codeName": "CriticalSoldier",
+    "icon": "CriticallyWoundedIcon.png",
+    "iconLocal": "icons/items/CriticallyWoundedIcon.png",
+    "amountPerCrate": 50,
+    "category": "Medical",
+    "wikiUrl": "",
+    "id": 97
+  },
+  {
+    "name": "First Aid Kit",
+    "codeName": "FirstAidKit",
+    "icon": "IconFilterMedical.png",
+    "iconLocal": "icons/items/FirstAidKitItem.png",
+    "amountPerCrate": 10,
+    "category": "Medical",
+    "wikiUrl": "https://foxhole.wiki.gg/wiki/First_Aid_Kit",
+    "id": 98
+  },
+  {
+    "name": "Soldier Supplies",
+    "codeName": "SoldierSupplies",
+    "icon": "ClothItemIcon.png",
+    "iconLocal": "icons/items/ClothItemIcon.png",
+    "amountPerCrate": 10,
+    "category": "Medical",
+    "wikiUrl": "https://foxhole.wiki.gg/wiki/Soldier_Supplies",
+    "id": 99
+  },
+  {
+    "name": "Trauma Kit",
+    "codeName": "TraumaKit",
+    "icon": "TraumaKitItemIcon.png",
+    "iconLocal": "icons/items/TraumaKitItemIcon.png",
+    "amountPerCrate": 10,
+    "category": "Medical",
+    "wikiUrl": "https://foxhole.wiki.gg/wiki/Trauma_Kit",
+    "id": 100
+  },
+  {
+    "name": "Colonial Aircraft Engine (Large)",
+    "codeName": "AircraftPartLargeEngineC",
+    "icon": "AircraftEngineIcon.png",
+    "iconLocal": "icons/items/AircraftEngineIcon.png",
+    "amountPerCrate": 1,
+    "category": "Parts",
+    "wikiUrl": "",
+    "id": 101
+  },
+  {
+    "name": "Colonial Aircraft Engine (Small)",
+    "codeName": "AircraftPartSmallEngineC",
+    "icon": "AircraftPartSmallEngineCIcon.png",
+    "iconLocal": "icons/items/AircraftPartSmallEngineCIcon.png",
+    "amountPerCrate": 1,
+    "category": "Parts",
+    "wikiUrl": "",
+    "id": 102
+  },
+  {
+    "name": "Colonial Aircraft Mechanical Parts (Large)",
+    "codeName": "AircraftPartLargeMechanicalC",
+    "icon": "AircraftFuselageIcon.png",
+    "iconLocal": "icons/items/AircraftFuselageIcon.png",
+    "amountPerCrate": 1,
+    "category": "Parts",
+    "wikiUrl": "",
+    "id": 103
+  },
+  {
+    "name": "Colonial Aircraft Mechanical Parts (Small)",
+    "codeName": "AircraftPartSmallMechanicalC",
+    "icon": "AircraftPartSmallMechanicalCIcon.png",
+    "iconLocal": "icons/items/AircraftPartSmallMechanicalCIcon.png",
+    "amountPerCrate": 1,
+    "category": "Parts",
+    "wikiUrl": "",
+    "id": 104
+  },
+  {
+    "name": "Damaged Colonial Aircraft Engine (Large)",
+    "codeName": "AircraftPartLargeEngineWreckedC",
+    "icon": "AircraftEngineIcon.png",
+    "iconLocal": "icons/items/AircraftEngineIcon.png",
+    "amountPerCrate": 1,
+    "category": "Parts",
+    "wikiUrl": "",
+    "id": 105
+  },
+  {
+    "name": "Damaged Colonial Aircraft Engine (Small)",
+    "codeName": "AircraftPartSmallEngineWreckedC",
+    "icon": "AircraftPartSmallEngineCIcon.png",
+    "iconLocal": "icons/items/AircraftPartSmallEngineCIcon.png",
+    "amountPerCrate": 1,
+    "category": "Parts",
+    "wikiUrl": "",
+    "id": 106
+  },
+  {
+    "name": "Damaged Colonial Aircraft Mechanical Parts (Large)",
+    "codeName": "AircraftPartLargeMechanicalWreckedC",
+    "icon": "AircraftFuselageIcon.png",
+    "iconLocal": "icons/items/AircraftFuselageIcon.png",
+    "amountPerCrate": 1,
+    "category": "Parts",
+    "wikiUrl": "",
+    "id": 107
+  },
+  {
+    "name": "Damaged Colonial Aircraft Mechanical Parts (Small)",
+    "codeName": "AircraftPartSmallMechanicalWreckedC",
+    "icon": "AircraftPartSmallMechanicalCIcon.png",
+    "iconLocal": "icons/items/AircraftPartSmallMechanicalCIcon.png",
+    "amountPerCrate": 1,
+    "category": "Parts",
+    "wikiUrl": "",
+    "id": 108
+  },
+  {
+    "name": "Damaged Warden Aircraft Engine (Large)",
+    "codeName": "AircraftPartLargeEngineWreckedW",
+    "icon": "AircraftPartLargeEngineWIcon.png",
+    "iconLocal": "icons/items/AircraftPartLargeEngineWIcon.png",
+    "amountPerCrate": 1,
+    "category": "Parts",
+    "wikiUrl": "",
+    "id": 109
+  },
+  {
+    "name": "Damaged Warden Aircraft Engine (Small)",
+    "codeName": "AircraftPartSmallEngineWreckedW",
+    "icon": "AircraftSmallEngineWIcon.png",
+    "iconLocal": "icons/items/AircraftSmallEngineWIcon.png",
+    "amountPerCrate": 1,
+    "category": "Parts",
+    "wikiUrl": "",
+    "id": 110
+  },
+  {
+    "name": "Damaged Warden Aircraft Mechanical Parts (Large)",
+    "codeName": "AircraftPartLargeMechanicalWreckedW",
+    "icon": "AircraftPartLargeMechanicalWIcon.png",
+    "iconLocal": "icons/items/AircraftPartLargeMechanicalWIcon.png",
+    "amountPerCrate": 1,
+    "category": "Parts",
+    "wikiUrl": "",
+    "id": 111
+  },
+  {
+    "name": "Damaged Warden Aircraft Mechanical Parts (Small)",
+    "codeName": "AircraftPartSmallMechanicalWreckedW",
+    "icon": "AircraftWingsIcon.png",
+    "iconLocal": "icons/items/AircraftWingsIcon.png",
+    "amountPerCrate": 1,
+    "category": "Parts",
+    "wikiUrl": "",
+    "id": 112
+  },
+  {
+    "name": "Warden Aircraft Engine (Large)",
+    "codeName": "AircraftPartLargeEngineW",
+    "icon": "AircraftPartLargeEngineWIcon.png",
+    "iconLocal": "icons/items/AircraftPartLargeEngineWIcon.png",
+    "amountPerCrate": 1,
+    "category": "Parts",
+    "wikiUrl": "",
+    "id": 113
+  },
+  {
+    "name": "Warden Aircraft Engine (Small)",
+    "codeName": "AircraftPartSmallEngineW",
+    "icon": "AircraftSmallEngineWIcon.png",
+    "iconLocal": "icons/items/AircraftSmallEngineWIcon.png",
+    "amountPerCrate": 1,
+    "category": "Parts",
+    "wikiUrl": "",
+    "id": 114
+  },
+  {
+    "name": "Warden Aircraft Mechanical Parts (Large)",
+    "codeName": "AircraftPartLargeMechanicalW",
+    "icon": "AircraftPartLargeMechanicalWIcon.png",
+    "iconLocal": "icons/items/AircraftPartLargeMechanicalWIcon.png",
+    "amountPerCrate": 1,
+    "category": "Parts",
+    "wikiUrl": "",
+    "id": 115
+  },
+  {
+    "name": "Warden Aircraft Mechanical Parts (Small)",
+    "codeName": "AircraftPartSmallMechanicalW",
+    "icon": "AircraftWingsIcon.png",
+    "iconLocal": "icons/items/AircraftWingsIcon.png",
+    "amountPerCrate": 1,
+    "category": "Parts",
+    "wikiUrl": "",
+    "id": 116
+  },
+  {
+    "name": "Aluminum",
+    "codeName": "Aluminum",
+    "icon": "ResouceAluminumIcon.png",
+    "iconLocal": "icons/items/ResouceAluminumIcon.png",
+    "amountPerCrate": 100,
+    "category": "Resources",
+    "wikiUrl": "",
+    "id": 117
+  },
+  {
+    "name": "Coal",
+    "codeName": "Coal",
+    "icon": "CoalIcon.png",
+    "iconLocal": "icons/items/CoalIcon.png",
+    "amountPerCrate": 100,
+    "category": "Resources",
+    "wikiUrl": "",
+    "id": 118
+  },
+  {
+    "name": "Coke",
+    "codeName": "FacilityCoal1",
+    "icon": "CokeIcon.png",
+    "iconLocal": "icons/items/CokeIcon.png",
+    "amountPerCrate": 1,
+    "category": "Resources",
+    "wikiUrl": "",
+    "id": 119
+  },
+  {
+    "name": "Components",
+    "codeName": "Components",
+    "icon": "ComponentsIcon.png",
+    "iconLocal": "icons/items/ComponentsIcon.png",
+    "amountPerCrate": 100,
+    "category": "Resources",
+    "wikiUrl": "",
+    "id": 120
+  },
+  {
+    "name": "Concrete Materials",
+    "codeName": "Concrete",
+    "icon": "ConcreteBagIcon.png",
+    "iconLocal": "icons/items/ConcreteBagIcon.png",
+    "amountPerCrate": 1,
+    "category": "Resources",
+    "wikiUrl": "",
+    "id": 121
+  },
+  {
+    "name": "Copper",
+    "codeName": "Copper",
+    "icon": "ResourceCopperIcon.png",
+    "iconLocal": "icons/items/ResourceCopperIcon.png",
+    "amountPerCrate": 100,
+    "category": "Resources",
+    "wikiUrl": "",
+    "id": 122
+  },
+  {
+    "name": "Damaged Components",
+    "codeName": "FacilityComponents1",
+    "icon": "ComponentsDamagedIcon.png",
+    "iconLocal": "icons/items/ComponentsDamagedIcon.png",
+    "amountPerCrate": 100,
+    "category": "Resources",
+    "wikiUrl": "",
+    "id": 123
+  },
+  {
+    "name": "Iron",
+    "codeName": "Iron",
+    "icon": "ResouceIronIcon.png",
+    "iconLocal": "icons/items/ResouceIronIcon.png",
+    "amountPerCrate": 100,
+    "category": "Resources",
+    "wikiUrl": "",
+    "id": 124
+  },
+  {
+    "name": "Rare Materials",
+    "codeName": "FacilityMaterials12",
+    "icon": "MetalBeamPlatformItemIcon.png",
+    "iconLocal": "icons/items/MetalBeamPlatformItemIcon.png",
+    "amountPerCrate": 1,
+    "category": "Resources",
+    "wikiUrl": "",
+    "id": 125
+  },
+  {
+    "name": "Rare Materials",
+    "codeName": "RareMaterials",
+    "icon": "RareMaterialsIcon.png",
+    "iconLocal": "icons/items/RareMaterialsIcon.png",
+    "amountPerCrate": 1,
+    "category": "Resources",
+    "wikiUrl": "",
+    "id": 126
+  },
+  {
+    "name": "Rare Metal",
+    "codeName": "RareMetal",
+    "icon": "RareMaterialsIcon.png",
+    "iconLocal": "icons/items/RareMaterialsIcon.png",
+    "amountPerCrate": 100,
+    "category": "Resources",
+    "wikiUrl": "",
+    "id": 127
+  },
+  {
+    "name": "Salvage",
+    "codeName": "Metal",
+    "icon": "SalvageIcon.png",
+    "iconLocal": "icons/items/SalvageIcon.png",
+    "amountPerCrate": 100,
+    "category": "Resources",
+    "wikiUrl": "",
+    "id": 128
+  },
+  {
+    "name": "Sulfur",
+    "codeName": "Sulfur",
+    "icon": "SulfurIcon.png",
+    "iconLocal": "icons/items/SulfurIcon.png",
+    "amountPerCrate": 100,
+    "category": "Resources",
+    "wikiUrl": "",
+    "id": 129
+  },
+  {
+    "name": "Maintenance Supplies",
+    "codeName": "MaintenanceSupplies",
+    "icon": "MaintenanceSuppliesIcon.png",
+    "iconLocal": "icons/items/MaintenanceSuppliesIcon.png",
+    "amountPerCrate": 100,
+    "category": "Supplies",
+    "wikiUrl": "https://foxhole.wiki.gg/wiki/Maintenance_Supplies",
+    "id": 130
+  },
+  {
+    "name": "Grenadier’s Baldric",
+    "codeName": "GrenadeUniformC",
+    "icon": "GrenadeUniformCIcon.png",
+    "iconLocal": "icons/uniforms/GrenadeUniformCIcon.png",
+    "amountPerCrate": 15,
+    "category": "Uniforms",
+    "wikiUrl": "",
+    "id": 131
+  },
+  {
+    "name": "Infantry Battledress",
+    "codeName": "SoldierUniformW",
+    "icon": "SoldierUniformWIcon.png",
+    "iconLocal": "icons/uniforms/SoldierUniformWIcon.png",
+    "amountPerCrate": 15,
+    "category": "Uniforms",
+    "wikiUrl": "",
+    "id": 132
+  },
+  {
+    "name": "Legionary Fatigues",
+    "codeName": "SoldierUniformC",
+    "icon": "SoldierUniformCIcon.png",
+    "iconLocal": "icons/uniforms/SoldierUniformCIcon.png",
+    "amountPerCrate": 15,
+    "category": "Uniforms",
+    "wikiUrl": "",
+    "id": 133
+  },
+  {
+    "name": "Legionary’s Oilcoat",
+    "codeName": "RainUniformC",
+    "icon": "RainUniformCIcon.png",
+    "iconLocal": "icons/uniforms/RainUniformCIcon.png",
+    "amountPerCrate": 15,
+    "category": "Uniforms",
+    "wikiUrl": "",
+    "id": 134
+  },
+  {
+    "name": "Snow Uniform",
+    "codeName": "",
+    "icon": "SnowUniformWIcon.png",
+    "iconLocal": "icons/uniforms/SnowUniformWIcon.png",
+    "amountPerCrate": 15,
+    "category": "Uniforms",
+    "wikiUrl": "https://foxhole.wiki.gg/wiki/Snow_Uniform",
+    "id": 135
+  },
+  {
+    "name": "Specialist’s Overcoat",
+    "codeName": "AmmoUniformW",
+    "icon": "AmmoUniformWIcon.png",
+    "iconLocal": "icons/uniforms/AmmoUniformWIcon.png",
+    "amountPerCrate": 15,
+    "category": "Uniforms",
+    "wikiUrl": "",
+    "id": 136
+  },
+  {
+    "name": "Auster’s Harness",
+    "codeName": "ParatrooperUniformC",
+    "icon": "ParatrooperUniformCIcon.png",
+    "iconLocal": "icons/uniforms/ParatrooperUniformCIcon.png",
+    "amountPerCrate": 15,
+    "category": "Uniforms (Colonial)",
+    "wikiUrl": "https://foxhole.wiki.gg/wiki/Auster%27s_Harness",
+    "id": 137
+  },
+  {
+    "name": "Fabri Rucksack",
+    "codeName": "EngineerUniformC",
+    "icon": "EngineerUniformCIcon.png",
+    "iconLocal": "icons/uniforms/EngineerUniformCIcon.png",
+    "amountPerCrate": 15,
+    "category": "Uniforms (Colonial)",
+    "wikiUrl": "https://foxhole.wiki.gg/wiki/Fabri_Rucksack",
+    "id": 138
+  },
+  {
+    "name": "Grenade Uniform",
+    "codeName": "",
+    "icon": "GrenadeUniformCIcon.png",
+    "iconLocal": "icons/uniforms/GrenadeUniformCIcon.png",
+    "amountPerCrate": 15,
+    "category": "Uniforms (Colonial)",
+    "wikiUrl": "https://foxhole.wiki.gg/wiki/Grenade_Uniform",
+    "id": 139
+  },
+  {
+    "name": "Heavy Topcoat",
+    "codeName": "SnowUniformC",
+    "icon": "SnowUniformCIcon.png",
+    "iconLocal": "icons/uniforms/SnowUniformCIcon.png",
+    "amountPerCrate": 15,
+    "category": "Uniforms (Colonial)",
+    "wikiUrl": "https://foxhole.wiki.gg/wiki/Heavy_Topcoat",
+    "id": 140
+  },
+  {
+    "name": "Lodesman’s Lorica",
+    "codeName": "PilotUniformC",
+    "icon": "PilotUniformCIcon.png",
+    "iconLocal": "icons/uniforms/PilotUniformCIcon.png",
+    "amountPerCrate": 1,
+    "category": "Uniforms (Colonial)",
+    "wikiUrl": "https://foxhole.wiki.gg/wiki/Lodesman%27s_Lorica",
+    "id": 141
+  },
+  {
+    "name": "Medic Fatigues",
+    "codeName": "MedicUniformC",
+    "icon": "MedicUniformCIcon.png",
+    "iconLocal": "icons/uniforms/MedicUniformCIcon.png",
+    "amountPerCrate": 15,
+    "category": "Uniforms (Colonial)",
+    "wikiUrl": "https://foxhole.wiki.gg/wiki/Medic_Fatigues",
+    "id": 142
+  },
+  {
+    "name": "Officialis’ Attire",
+    "codeName": "OfficerUniformC",
+    "icon": "OfficerUniformCIcon.png",
+    "iconLocal": "icons/uniforms/OfficerUniformCIcon.png",
+    "amountPerCrate": 3,
+    "category": "Uniforms (Colonial)",
+    "wikiUrl": "https://foxhole.wiki.gg/wiki/Officialis%27_Attire",
+    "id": 143
+  },
+  {
+    "name": "Recon Camo",
+    "codeName": "ScoutUniformC",
+    "icon": "ScoutUniformCIcon.png",
+    "iconLocal": "icons/uniforms/ScoutUniformCIcon.png",
+    "amountPerCrate": 15,
+    "category": "Uniforms (Colonial)",
+    "wikiUrl": "https://foxhole.wiki.gg/wiki/Recon_Camo",
+    "id": 144
+  },
+  {
+    "name": "Remex Garb",
+    "codeName": "NavalUniformC",
+    "icon": "NavalUniformC.png",
+    "iconLocal": "icons/uniforms/NavalUniformC.png",
+    "amountPerCrate": 15,
+    "category": "Uniforms (Colonial)",
+    "wikiUrl": "https://foxhole.wiki.gg/wiki/Remex_Garb",
+    "id": 145
+  },
+  {
+    "name": "Tankman’s Coveralls",
+    "codeName": "TankUniformC",
+    "icon": "TankUniformCIcon.png",
+    "iconLocal": "icons/uniforms/TankUniformCIcon.png",
+    "amountPerCrate": 15,
+    "category": "Uniforms (Colonial)",
+    "wikiUrl": "https://foxhole.wiki.gg/wiki/Tankman%27s_Coveralls",
+    "id": 146
+  },
+  {
+    "name": "Velian Flak Vest",
+    "codeName": "ArmourUniformC",
+    "icon": "ArmourUniformC.png",
+    "iconLocal": "icons/uniforms/ArmourUniformC.png",
+    "amountPerCrate": 10,
+    "category": "Uniforms (Colonial)",
+    "wikiUrl": "https://foxhole.wiki.gg/wiki/Velian_Flak_Vest",
+    "id": 147
+  },
+  {
+    "name": "Aviator’s Raiment",
+    "codeName": "PilotUniformW",
+    "icon": "PilotUniformWIcon.png",
+    "iconLocal": "icons/uniforms/PilotUniformWIcon.png",
+    "amountPerCrate": 1,
+    "category": "Uniforms (Warden)",
+    "wikiUrl": "https://foxhole.wiki.gg/wiki/Aviator%27s_Raiment",
+    "id": 148
+  },
+  {
+    "name": "Caoivish Parka",
+    "codeName": "SnowUniformW",
+    "icon": "SnowUniformWIcon.png",
+    "iconLocal": "icons/uniforms/SnowUniformWIcon.png",
+    "amountPerCrate": 15,
+    "category": "Uniforms (Warden)",
+    "wikiUrl": "https://foxhole.wiki.gg/wiki/Caoivish_Parka",
+    "id": 149
+  },
+  {
+    "name": "Cloudrunner’s Vesture",
+    "codeName": "ParatrooperUniformW",
+    "icon": "ParatrooperUniformWIcon.png",
+    "iconLocal": "icons/uniforms/ParatrooperUniformWIcon.png",
+    "amountPerCrate": 15,
+    "category": "Uniforms (Warden)",
+    "wikiUrl": "https://foxhole.wiki.gg/wiki/Cloudrunner%27s_Vesture",
+    "id": 150
+  },
+  {
+    "name": "Gentleman’s Peacoat",
+    "codeName": "NavalUniformW",
+    "icon": "NavalUniformWIcon.png",
+    "iconLocal": "icons/uniforms/NavalUniformW.png",
+    "amountPerCrate": 15,
+    "category": "Uniforms (Warden)",
+    "wikiUrl": "https://foxhole.wiki.gg/wiki/Gentleman%27s_Peacoat",
+    "id": 151
+  },
+  {
+    "name": "Gunner’s Breastplate",
+    "codeName": "ArmourUniformW",
+    "icon": "ArmourUniformWIcon.png",
+    "iconLocal": "icons/uniforms/ArmourUniformW.png",
+    "amountPerCrate": 5,
+    "category": "Uniforms (Warden)",
+    "wikiUrl": "https://foxhole.wiki.gg/wiki/Gunner%27s_Breastplate",
+    "id": 152
+  },
+  {
+    "name": "Heavy Ammo Uniform",
+    "codeName": "",
+    "icon": "AmmoUniformWIcon.png",
+    "iconLocal": "icons/uniforms/AmmoUniformWIcon.png",
+    "amountPerCrate": 15,
+    "category": "Uniforms (Warden)",
+    "wikiUrl": "https://foxhole.wiki.gg/wiki/Heavy_Ammo_Uniform",
+    "id": 153
+  },
+  {
+    "name": "Officer’s Regalia",
+    "codeName": "OfficerUniformW",
+    "icon": "OfficerUniformWIcon.png",
+    "iconLocal": "icons/uniforms/OfficerUniformWIcon.png",
+    "amountPerCrate": 3,
+    "category": "Uniforms (Warden)",
+    "wikiUrl": "https://foxhole.wiki.gg/wiki/Officer%27s_Regalia",
+    "id": 154
+  },
+  {
+    "name": "Outrider’s Mantle",
+    "codeName": "ScoutUniformW",
+    "icon": "ScoutUniformWIcon.png",
+    "iconLocal": "icons/uniforms/ScoutUniformWIcon.png",
+    "amountPerCrate": 15,
+    "category": "Uniforms (Warden)",
+    "wikiUrl": "https://foxhole.wiki.gg/wiki/Outrider%27s_Mantle",
+    "id": 155
+  },
+  {
+    "name": "Padded Boiler Suit",
+    "codeName": "TankUniformW",
+    "icon": "TankUniformWIcon.png",
+    "iconLocal": "icons/uniforms/TankUniformWIcon.png",
+    "amountPerCrate": 15,
+    "category": "Uniforms (Warden)",
+    "wikiUrl": "https://foxhole.wiki.gg/wiki/Padded_Boiler_Suit",
+    "id": 156
+  },
+  {
+    "name": "Physician’s Jacket",
+    "codeName": "MedicUniformW",
+    "icon": "MedicUniformWIcon.png",
+    "iconLocal": "icons/uniforms/MedicUniformWIcon.png",
+    "amountPerCrate": 15,
+    "category": "Uniforms (Warden)",
+    "wikiUrl": "https://foxhole.wiki.gg/wiki/Physician%27s_Jacket",
+    "id": 157
+  },
+  {
+    "name": "Rain Uniform",
+    "codeName": "",
+    "icon": "RainUniformCIcon.png",
+    "iconLocal": "icons/uniforms/RainUniformCIcon.png",
+    "amountPerCrate": 15,
+    "category": "Uniforms (Warden)",
+    "wikiUrl": "https://foxhole.wiki.gg/wiki/Legionary%27s_Oilcoat",
+    "id": 158
+  },
+  {
+    "name": "Sapper Gear",
+    "codeName": "EngineerUniformW",
+    "icon": "EngineerUniformWIcon.png",
+    "iconLocal": "icons/uniforms/EngineerUniformWIcon.png",
+    "amountPerCrate": 15,
+    "category": "Uniforms (Warden)",
+    "wikiUrl": "https://foxhole.wiki.gg/wiki/Sapper_Gear",
+    "id": 159
+  },
+  {
+    "name": "228 Satterley Heavy Storm Rifle",
+    "codeName": "ATRifleAssaultW",
+    "icon": "ATRifleAssaultWIcontga.png",
+    "iconLocal": "icons/items/ATRifleAssaultWIcontga.png",
+    "amountPerCrate": 5,
+    "category": "Weapons",
+    "wikiUrl": "https://foxhole.wiki.gg/wiki/228_Satterley_Heavy_Storm_Rifle",
+    "id": 160
+  },
+  {
+    "name": "Aalto Storm Rifle 24",
+    "codeName": "AssaultRifleW",
+    "icon": "AssaultRifleItemIcon.png",
+    "iconLocal": "icons/items/AssaultRifleItemIcon.png",
+    "amountPerCrate": 20,
+    "category": "Weapons",
+    "wikiUrl": "https://foxhole.wiki.gg/wiki/Aalto_Storm_Rifle_24",
+    "id": 161
+  },
+  {
+    "name": "Abisme AT-99 Mine",
+    "codeName": "TankMine",
+    "icon": "AntiTankMineItemIcon.png",
+    "iconLocal": "icons/items/AntiTankMineItemIcon.png",
+    "amountPerCrate": 10,
+    "category": "Weapons",
+    "wikiUrl": "https://foxhole.wiki.gg/wiki/Abisme_AT-99",
+    "id": 162
+  },
+  {
+    "name": "Ahti Model 2",
+    "codeName": "PistolW",
+    "icon": "PistolWItemIcon.png",
+    "iconLocal": "icons/items/PistolWItemIcon.png",
+    "amountPerCrate": 20,
+    "category": "Weapons",
+    "wikiUrl": "",
+    "id": 163
+  },
+  {
+    "name": "Alligator Charge",
+    "codeName": "SatchelChargeW",
+    "icon": "SatchelCharge.png",
+    "iconLocal": "icons/structures/SatchelCharge.png",
+    "amountPerCrate": 5,
+    "category": "Weapons",
+    "wikiUrl": "https://foxhole.wiki.gg/wiki/Alligator_Charge",
+    "id": 164
+  },
+  {
+    "name": "Anti-Tank Sticky Bomb",
+    "codeName": "StickyBomb",
+    "icon": "StickyBombIcon.png",
+    "iconLocal": "icons/items/StickyBombIcon.png",
+    "amountPerCrate": 10,
+    "category": "Weapons",
+    "wikiUrl": "https://foxhole.wiki.gg/wiki/Anti-Tank_Sticky_Bomb",
+    "id": 165
+  },
+  {
+    "name": "Argenti r.II Rifle",
+    "codeName": "RifleC",
+    "icon": "RifleCItemIcon.png",
+    "iconLocal": "icons/items/RifleCItemIcon.png",
+    "amountPerCrate": 20,
+    "category": "Weapons",
+    "wikiUrl": "https://foxhole.wiki.gg/wiki/Argenti_r.II_Rifle",
+    "id": 166
+  },
+  {
+    "name": "BF5 White Ash Flask Grenade",
+    "codeName": "ATGrenadeW",
+    "icon": "ATGrenadeWIcon.png",
+    "iconLocal": "icons/items/ATGrenadeWIcon.png",
+    "amountPerCrate": 10,
+    "category": "Weapons",
+    "wikiUrl": "https://foxhole.wiki.gg/wiki/BF5_White_Ash_Flask_Grenade",
+    "id": 167
+  },
+  {
+    "name": "Bane 45",
+    "codeName": "ATRPGHeavyC",
+    "icon": "ATRpgItemIcon.png",
+    "iconLocal": "icons/items/ATRpgItemIcon.png",
+    "amountPerCrate": 5,
+    "category": "Weapons",
+    "wikiUrl": "https://foxhole.wiki.gg/wiki/Bane_45",
+    "id": 168
+  },
+  {
+    "name": "Blakerow 871",
+    "codeName": "RifleLightW",
+    "icon": "CarbineItemIcon.png",
+    "iconLocal": "icons/items/CarbineItemIcon.png",
+    "amountPerCrate": 20,
+    "category": "Weapons",
+    "wikiUrl": "https://foxhole.wiki.gg/wiki/Blakerow_871",
+    "id": 169
+  },
+  {
+    "name": "Bomastone Grenade",
+    "codeName": "GrenadeC",
+    "icon": "GrenadeCItemIcon.png",
+    "iconLocal": "icons/items/GrenadeCItemIcon.png",
+    "amountPerCrate": 25,
+    "category": "Weapons",
+    "wikiUrl": "https://foxhole.wiki.gg/wiki/Bomastone_Grenade",
+    "id": 170
+  },
+  {
+    "name": "Bonesaw MK.3",
+    "codeName": "ATRPGW",
+    "icon": "ATMortarItemIcon.png",
+    "iconLocal": "icons/items/ATMortarItemIcon.png",
+    "amountPerCrate": 5,
+    "category": "Weapons",
+    "wikiUrl": "https://foxhole.wiki.gg/wiki/Bonesaw_MK.3",
+    "id": 171
+  },
+  {
+    "name": "Booker Greyhound Model 910",
+    "codeName": "ATRifleAutomaticW",
+    "icon": "ATRifleAutomaticWItemIcon.png",
+    "iconLocal": "icons/items/ATRifleAutomaticWItemIcon.png",
+    "amountPerCrate": 3,
+    "category": "Weapons",
+    "wikiUrl": "https://foxhole.wiki.gg/wiki/Booker_Greyhound_Model_910",
+    "id": 172
+  },
+  {
+    "name": "Booker Storm Rifle Model 838",
+    "codeName": "AssaultRifleHeavyW",
+    "icon": "AssaultRifleHeavyWItemIcon.png",
+    "iconLocal": "icons/items/AssaultRifleHeavyWItemIcon.png",
+    "amountPerCrate": 20,
+    "category": "Weapons",
+    "wikiUrl": "https://foxhole.wiki.gg/wiki/Booker_Storm_Rifle_Model_838",
+    "id": 173
+  },
+  {
+    "name": "Buckhorn CCQ-18",
+    "codeName": "Bayonet",
+    "icon": "BayonetIcon.png",
+    "iconLocal": "icons/items/BayonetIcon.png",
+    "amountPerCrate": 20,
+    "category": "Weapons",
+    "wikiUrl": "https://foxhole.wiki.gg/wiki/Buckhorn_CCQ-18",
+    "id": 174
+  },
+  {
+    "name": "Carnyx Anti-Tank Rocket Launcher",
+    "codeName": "ATRPGHeavyW",
+    "icon": "ATRPGHeavyWIcon.png",
+    "iconLocal": "icons/items/ATRPGHeavyWIcon.png",
+    "amountPerCrate": 5,
+    "category": "Weapons",
+    "wikiUrl": "https://foxhole.wiki.gg/wiki/Carnyx_Anti-Tank_Rocket_Launcher",
+    "id": 175
+  },
+  {
+    "name": "Cascadier 873",
+    "codeName": "PistolLightW",
+    "icon": "PistolLightWItemIcon.png",
+    "iconLocal": "icons/items/PistolLightWItemIcon.png",
+    "amountPerCrate": 40,
+    "category": "Weapons",
+    "wikiUrl": "https://foxhole.wiki.gg/wiki/Cascadier_873",
+    "id": 176
+  },
+  {
+    "name": "Catara mo.II",
+    "codeName": "AssaultRifleC",
+    "icon": "LightMachineGunIcon.png",
+    "iconLocal": "icons/items/LightMachineGunIcon.png",
+    "amountPerCrate": 20,
+    "category": "Weapons",
+    "wikiUrl": "https://foxhole.wiki.gg/wiki/Catara_mo.II",
+    "id": 177
+  },
+  {
+    "name": "Catena rt.IV Auto-Rifle",
+    "codeName": "RifleAutomaticC",
+    "icon": "RifleAutomaticCIcon.png",
+    "iconLocal": "icons/items/RifleAutomaticCIcon.png",
+    "amountPerCrate": 15,
+    "category": "Weapons",
+    "wikiUrl": "https://foxhole.wiki.gg/wiki/Catena_rt.IV_Auto-Rifle",
+    "id": 178
+  },
+  {
+    "name": "Clancy Cinder M3",
+    "codeName": "RifleLongW",
+    "icon": "RifleLongW.png",
+    "iconLocal": "icons/items/RifleLongW.png",
+    "amountPerCrate": 15,
+    "category": "Weapons",
+    "wikiUrl": "https://foxhole.wiki.gg/wiki/Clancy_Cinder_M3",
+    "id": 179
+  },
+  {
+    "name": "Clancy-Raca M4",
+    "codeName": "SniperRifleW",
+    "icon": "SniperRifleItemIcon.png",
+    "iconLocal": "icons/items/SniperRifleItemIcon.png",
+    "amountPerCrate": 3,
+    "category": "Weapons",
+    "wikiUrl": "https://foxhole.wiki.gg/wiki/Clancy-Raca_M4",
+    "id": 180
+  },
+  {
+    "name": "Cometa T2-9",
+    "codeName": "Revolver",
+    "icon": "RevolverItemIcon.png",
+    "iconLocal": "icons/items/RevolverItemIcon.png",
+    "amountPerCrate": 30,
+    "category": "Weapons",
+    "wikiUrl": "https://foxhole.wiki.gg/wiki/Cometa_T2-9",
+    "id": 181
+  },
+  {
+    "name": "Cremari Mortar",
+    "codeName": "Mortar",
+    "icon": "MortarItemIcon.png",
+    "iconLocal": "icons/items/MortarItemIcon.png",
+    "amountPerCrate": 5,
+    "category": "Weapons",
+    "wikiUrl": "https://foxhole.wiki.gg/wiki/Cremari_Mortar",
+    "id": 182
+  },
+  {
+    "name": "Crow’s Foot Mine",
+    "codeName": "InfantryMine",
+    "icon": "InfantryMineIcon.png",
+    "iconLocal": "icons/items/InfantryMineIcon.png",
+    "amountPerCrate": 10,
+    "category": "Weapons",
+    "wikiUrl": "https://foxhole.wiki.gg/wiki/Crow%27s_Foot_Mine",
+    "id": 183
+  },
+  {
+    "name": "Cutler Foebreaker",
+    "codeName": "RPGTW",
+    "icon": "ATRPGTWIcon.png",
+    "iconLocal": "icons/items/ATRPGTWIcon.png",
+    "amountPerCrate": 5,
+    "category": "Weapons",
+    "wikiUrl": "https://foxhole.wiki.gg/wiki/Cutler_Foebreaker",
+    "id": 184
+  },
+  {
+    "name": "Cutler Launcher 4",
+    "codeName": "RpgW",
+    "icon": "RpgItemIcon.png",
+    "iconLocal": "icons/items/RpgItemIcon.png",
+    "amountPerCrate": 5,
+    "category": "Weapons",
+    "wikiUrl": "https://foxhole.wiki.gg/wiki/Cutler_Launcher_4",
+    "id": 185
+  },
+  {
+    "name": "Daucus isg.III",
+    "codeName": "ISGTC",
+    "icon": "InfantrySupportGunItemIcon.png",
+    "iconLocal": "icons/items/InfantrySupportGunItemIcon.png",
+    "amountPerCrate": 5,
+    "category": "Weapons",
+    "wikiUrl": "https://foxhole.wiki.gg/wiki/Daucus_isg.III",
+    "id": 186
+  },
+  {
+    "name": "E680-S Rudder Lock",
+    "codeName": "WaterMine",
+    "icon": "SeaMineIcon.png",
+    "iconLocal": "icons/items/SeaMineIcon.png",
+    "amountPerCrate": 1,
+    "category": "Weapons",
+    "wikiUrl": "https://foxhole.wiki.gg/wiki/E680-S_Rudder_Lock",
+    "id": 187
+  },
+  {
+    "name": "E681-B Hullbreaker Mine",
+    "codeName": "SurfaceWaterMine",
+    "icon": "SurfaceMineIcon.png",
+    "iconLocal": "icons/items/SurfaceMineIcon.png",
+    "amountPerCrate": 5,
+    "category": "Weapons",
+    "wikiUrl": "https://foxhole.wiki.gg/wiki/E681-B_Hullbreaker_Mine",
+    "id": 188
+  },
+  {
+    "name": "Eleos Infantry Dagger",
+    "codeName": "SwordC",
+    "icon": "StilSwordCIcon.png",
+    "iconLocal": "icons/items/StilSwordCIcon.png",
+    "amountPerCrate": 10,
+    "category": "Weapons",
+    "wikiUrl": "https://foxhole.wiki.gg/wiki/Eleos_Infantry_Dagger",
+    "id": 189
+  },
+  {
+    "name": "Falias Raiding Club",
+    "codeName": "MaceW",
+    "icon": "TrenchMaceWIcon.png",
+    "iconLocal": "icons/items/TrenchMaceWIcon.png",
+    "amountPerCrate": 10,
+    "category": "Weapons",
+    "wikiUrl": "https://foxhole.wiki.gg/wiki/Falias_Raiding_Club",
+    "id": 190
+  },
+  {
+    "name": "Ferro 879",
+    "codeName": "PistolC",
+    "icon": "PistolItemIcon.png",
+    "iconLocal": "icons/items/PistolItemIcon.png",
+    "amountPerCrate": 20,
+    "category": "Weapons",
+    "wikiUrl": "",
+    "id": 191
+  },
+  {
+    "name": "Fiddler Submachine Gun Model 868",
+    "codeName": "SMGW",
+    "icon": "SubMachineGunIcon.png",
+    "iconLocal": "icons/items/SubMachineGunIcon.png",
+    "amountPerCrate": 20,
+    "category": "Weapons",
+    "wikiUrl": "https://foxhole.wiki.gg/wiki/Fiddler_Submachine_Gun_Model_868",
+    "id": 192
+  },
+  {
+    "name": "Fuscina pi.I",
+    "codeName": "RifleLightC",
+    "icon": "RifleLightCItemIcon.png",
+    "iconLocal": "icons/items/RifleLightCItemIcon.png",
+    "amountPerCrate": 20,
+    "category": "Weapons",
+    "wikiUrl": "https://foxhole.wiki.gg/wiki/Fuscina_pi.I",
+    "id": 193
+  },
+  {
+    "name": "Havoc Charge",
+    "codeName": "ExplosiveTripod",
+    "icon": "ExplosiveTripodIcon.png",
+    "iconLocal": "icons/items/ExplosiveTripodIcon.png",
+    "amountPerCrate": 5,
+    "category": "Weapons",
+    "wikiUrl": "https://foxhole.wiki.gg/wiki/Havoc_Charge",
+    "id": 194
+  },
+  {
+    "name": "Hydra’s Whisper",
+    "codeName": "ExplosiveLightC",
+    "icon": "BangaloreItemIcon.png",
+    "iconLocal": "icons/items/BangaloreItemIcon.png",
+    "amountPerCrate": 5,
+    "category": "Weapons",
+    "wikiUrl": "https://foxhole.wiki.gg/wiki/Hydra%27s_Whisper",
+    "id": 195
+  },
+  {
+    "name": "Ignifist 30",
+    "codeName": "ATRPGLightC",
+    "icon": "ATRPGLightCItemIcon.png",
+    "iconLocal": "icons/items/ATRPGLightCItemIcon.png",
+    "amountPerCrate": 10,
+    "category": "Weapons",
+    "wikiUrl": "https://foxhole.wiki.gg/wiki/Ignifist_30",
+    "id": 196
+  },
+  {
+    "name": "KLG901-2 Lunaire F",
+    "codeName": "GrenadeLauncherC",
+    "icon": "GrenadeLauncherCItemIcon.png",
+    "iconLocal": "icons/items/GrenadeLauncherCItemIcon.png",
+    "amountPerCrate": 5,
+    "category": "Weapons",
+    "wikiUrl": "https://foxhole.wiki.gg/wiki/KLG901-2_Lunaire_F",
+    "id": 197
+  },
+  {
+    "name": "KRF1-750 Dragonfly",
+    "codeName": "ShotgunC",
+    "icon": "ShotgunCItemIcon.png",
+    "iconLocal": "icons/items/ShotgunCItemIcon.png",
+    "amountPerCrate": 15,
+    "category": "Weapons",
+    "wikiUrl": "https://foxhole.wiki.gg/wiki/KRF1-750_Dragonfly",
+    "id": 198
+  },
+  {
+    "name": "KRN886-127 Gast Machine Gun",
+    "codeName": "MGC",
+    "icon": "MGCItemIcon.png",
+    "iconLocal": "icons/items/MGCItemIcon.png",
+    "amountPerCrate": 5,
+    "category": "Weapons",
+    "wikiUrl": "https://foxhole.wiki.gg/wiki/KRN886-127_Gast_Machine_Gun",
+    "id": 199
+  },
+  {
+    "name": "KRR2-790 Omen",
+    "codeName": "RifleLongC",
+    "icon": "RifleLongC.png",
+    "iconLocal": "icons/items/RifleLongC.png",
+    "amountPerCrate": 15,
+    "category": "Weapons",
+    "wikiUrl": "https://foxhole.wiki.gg/wiki/KRR2-790_Omen",
+    "id": 200
+  },
+  {
+    "name": "KRR3-792 Auger",
+    "codeName": "SniperRifleC",
+    "icon": "SniperRifleCItemIcon.png",
+    "iconLocal": "icons/items/SniperRifleCItemIcon.png",
+    "amountPerCrate": 5,
+    "category": "Weapons",
+    "wikiUrl": "https://foxhole.wiki.gg/wiki/KRR3-792_Auger",
+    "id": 201
+  },
+  {
+    "name": "Lamentum mm.IV",
+    "codeName": "MGTC",
+    "icon": "HeavyMachineGunIcon.png",
+    "iconLocal": "icons/items/HeavyMachineGunIcon.png",
+    "amountPerCrate": 5,
+    "category": "Weapons",
+    "wikiUrl": "https://foxhole.wiki.gg/wiki/Lamentum_mm.IV",
+    "id": 202
+  },
+  {
+    "name": "Malone MK.2",
+    "codeName": "MGW",
+    "icon": "MGWItemIcon.png",
+    "iconLocal": "icons/items/MGWItemIcon.png",
+    "amountPerCrate": 5,
+    "category": "Weapons",
+    "wikiUrl": "https://foxhole.wiki.gg/wiki/Malone_MK.2",
+    "id": 203
+  },
+  {
+    "name": "Malone Ratcatcher MK.1",
+    "codeName": "MGTW",
+    "icon": "MGHeavyTWItemIcon.png",
+    "iconLocal": "icons/items/MGHeavyTWItemIcon.png",
+    "amountPerCrate": 5,
+    "category": "Weapons",
+    "wikiUrl": "https://foxhole.wiki.gg/wiki/Malone_Ratcatcher_MK.1",
+    "id": 204
+  },
+  {
+    "name": "Mammon 91-b",
+    "codeName": "HEGrenade",
+    "icon": "HEGrenadeItemIcon.png",
+    "iconLocal": "icons/items/HEGrenadeItemIcon.png",
+    "amountPerCrate": 20,
+    "category": "Weapons",
+    "wikiUrl": "https://foxhole.wiki.gg/wiki/Mammon_91-b",
+    "id": 205
+  },
+  {
+    "name": "Mounted Bonesaw MK.3",
+    "codeName": "ATRPGTW",
+    "icon": "ATMortarWTripodItemIcon.png",
+    "iconLocal": "icons/items/ATMortarWTripodItemIcon.png",
+    "amountPerCrate": 5,
+    "category": "Weapons",
+    "wikiUrl": "https://foxhole.wiki.gg/wiki/Mounted_Bonesaw_MK.3",
+    "id": 206
+  },
+  {
+    "name": "Mounted Fissura gd.I",
+    "codeName": "GrenadeLauncherTC",
+    "icon": "GrenadeLauncherTCIcon.png",
+    "iconLocal": "icons/items/GrenadeLauncherTCIcon.png",
+    "amountPerCrate": 5,
+    "category": "Weapons",
+    "wikiUrl": "https://foxhole.wiki.gg/wiki/Mounted_Fissura_gd.I",
+    "id": 207
+  },
+  {
+    "name": "Neville Anti-Tank Rifle",
+    "codeName": "ATRifleW",
+    "icon": "ATRifleItemIcon.png",
+    "iconLocal": "icons/items/ATRifleItemIcon.png",
+    "amountPerCrate": 3,
+    "category": "Weapons",
+    "wikiUrl": "https://foxhole.wiki.gg/wiki/Neville_Anti-Tank_Rifle",
+    "id": 208
+  },
+  {
+    "name": "No.1 “The Liar” Submachinegun",
+    "codeName": "SMGHeavyW",
+    "icon": "SMGHeavyWItemIcon.png",
+    "iconLocal": "icons/items/SMGHeavyWItemIcon.png",
+    "amountPerCrate": 20,
+    "category": "Weapons",
+    "wikiUrl": "https://foxhole.wiki.gg/wiki/No.1_%E2%80%9CThe_Liar%E2%80%9D_Submachine_Gun",
+    "id": 209
+  },
+  {
+    "name": "No.2 Loughcaster",
+    "codeName": "RifleW",
+    "icon": "RifleW.png",
+    "iconLocal": "icons/items/RifleW.png",
+    "amountPerCrate": 20,
+    "category": "Weapons",
+    "wikiUrl": "https://foxhole.wiki.gg/wiki/No.2_Loughcaster",
+    "id": 210
+  },
+  {
+    "name": "No.2B Hawthorne",
+    "codeName": "RifleShortW",
+    "icon": "RifleShortWIcon.png",
+    "iconLocal": "icons/items/RifleShortWIcon.png",
+    "amountPerCrate": 15,
+    "category": "Weapons",
+    "wikiUrl": "https://foxhole.wiki.gg/wiki/No.2B_Hawthorne",
+    "id": 211
+  },
+  {
+    "name": "No.4 The Pillory Scattergun",
+    "codeName": "ShotgunW",
+    "icon": "ShotgunWItemIcon.png",
+    "iconLocal": "icons/items/ShotgunWItemIcon.png",
+    "amountPerCrate": 15,
+    "category": "Weapons",
+    "wikiUrl": "https://foxhole.wiki.gg/wiki/No.4_The_Pillory_Scattergun",
+    "id": 212
+  },
+  {
+    "name": "Sampo Auto-Rifle 77",
+    "codeName": "RifleAutomaticW",
+    "icon": "RifleAutomaticW.png",
+    "iconLocal": "icons/items/RifleAutomaticW.png",
+    "amountPerCrate": 20,
+    "category": "Weapons",
+    "wikiUrl": "https://foxhole.wiki.gg/wiki/Sampo_Auto-Rifle_77",
+    "id": 213
+  },
+  {
+    "name": "The Hangman 757",
+    "codeName": "RifleHeavyW",
+    "icon": "RevolvingRifleWItemIcon.png",
+    "iconLocal": "icons/items/RevolvingRifleWItemIcon.png",
+    "amountPerCrate": 20,
+    "category": "Weapons",
+    "wikiUrl": "https://foxhole.wiki.gg/wiki/The_Hangman_757",
+    "id": 214
+  },
+  {
+    "name": "The Ospreay",
+    "codeName": "GrenadeAdapter",
+    "icon": "GrenadeAdapterIcon.png",
+    "iconLocal": "icons/items/GrenadeAdapterIcon.png",
+    "amountPerCrate": 20,
+    "category": "Weapons",
+    "wikiUrl": "https://foxhole.wiki.gg/wiki/The_Ospreay",
+    "id": 215
+  },
+  {
+    "name": "Venom c.II 35",
+    "codeName": "ATRPGC",
+    "icon": "ATRPGCItemIcon.png",
+    "iconLocal": "icons/items/ATRPGCItemIcon.png",
+    "amountPerCrate": 5,
+    "category": "Weapons",
+    "wikiUrl": "https://foxhole.wiki.gg/wiki/Venom_c.II_35",
+    "id": 216
+  },
+  {
+    "name": "Volta r.I Repeater",
+    "codeName": "RifleHeavyC",
+    "icon": "RifleHeavyCItemIcon.png",
+    "iconLocal": "icons/items/RifleHeavyCItemIcon.png",
+    "amountPerCrate": 15,
+    "category": "Weapons",
+    "wikiUrl": "https://foxhole.wiki.gg/wiki/Volta_r.I_Repeater",
+    "id": 217
+  },
+  {
+    "name": "Willow’s Bane Model 845",
+    "codeName": "FlameTorchW",
+    "icon": "FlamegunWICon.png",
+    "iconLocal": "icons/items/FlamegunWICon.png",
+    "amountPerCrate": 10,
+    "category": "Weapons",
+    "wikiUrl": "https://foxhole.wiki.gg/wiki/Willow%27s_Bane_Model_845",
+    "id": 218
+  },
+  {
+    "name": "“Dawn” Ve.II",
+    "codeName": "ATRifleLightC",
+    "icon": "ATRifleLightCIcon.png",
+    "iconLocal": "icons/items/ATRifleLightCIcon.png",
+    "amountPerCrate": 3,
+    "category": "Weapons",
+    "wikiUrl": "https://foxhole.wiki.gg/wiki/%E2%80%9CDawn%E2%80%9D_Ve.II",
+    "id": 219
+  },
+  {
+    "name": "“Dusk” ce.III",
+    "codeName": "AssaultRifleHeavyC",
+    "icon": "AssaultRifleHeavyCItemIcon.png",
+    "iconLocal": "icons/items/AssaultRifleHeavyCItemIcon.png",
+    "amountPerCrate": 20,
+    "category": "Weapons",
+    "wikiUrl": "https://foxhole.wiki.gg/wiki/%E2%80%9CDusk%E2%80%9D_ce.III",
+    "id": 220
+  },
+  {
+    "name": "“Lionclaw” mc.VIII",
+    "codeName": "SMGHeavyC",
+    "icon": "SMGHeavyCItemIcon.png",
+    "iconLocal": "icons/items/SMGHeavyCItemIcon.png",
+    "amountPerCrate": 20,
+    "category": "Weapons",
+    "wikiUrl": "https://foxhole.wiki.gg/wiki/%E2%80%9CLionclaw%E2%80%9D_mc.VIII",
+    "id": 221
+  },
+  {
+    "name": "“Molten Wind” v.II Flame Torch",
+    "codeName": "FlameTorchC",
+    "icon": "FlamegunCICon.png",
+    "iconLocal": "icons/items/FlamegunCICon.png",
+    "amountPerCrate": 10,
+    "category": "Weapons",
+    "wikiUrl": "https://foxhole.wiki.gg/wiki/%E2%80%9CMolten_Wind%E2%80%9D_v.II_Flame_Torch",
+    "id": 222
+  },
+  {
+    "name": "“Quickhatch” Rt.I",
+    "codeName": "ATRifleSniperC",
+    "icon": "ATRifleSniperCIcontga.png",
+    "iconLocal": "icons/items/ATRifleSniperCIcontga.png",
+    "amountPerCrate": 3,
+    "category": "Weapons",
+    "wikiUrl": "https://foxhole.wiki.gg/wiki/%E2%80%9CQuickhatch%E2%80%9D_Rt.I",
+    "id": 223
+  },
+  {
+    "name": "“The Pitch Gun” mc.V",
+    "codeName": "SMGC",
+    "icon": "SMGCItemIcon.png",
+    "iconLocal": "icons/items/SMGCItemIcon.png",
+    "amountPerCrate": 20,
+    "category": "Weapons",
+    "wikiUrl": "https://foxhole.wiki.gg/wiki/%E2%80%9CThe_Pitch_Gun%E2%80%9D_mc.V",
+    "id": 224
+  },
+  {
+    "name": "“Typhon” ra.XII",
+    "codeName": "ATRifleTC",
+    "icon": "ATRifleTCIcon.png",
+    "iconLocal": "icons/items/ATRifleTCIcon.png",
+    "amountPerCrate": 5,
+    "category": "Weapons",
+    "wikiUrl": "https://foxhole.wiki.gg/wiki/%E2%80%9CTyphon%E2%80%9D_ra.XII",
+    "id": 225
+  }
+]
