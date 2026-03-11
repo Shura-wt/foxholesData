@@ -62,6 +62,47 @@ This repository exists because finding structured, machine-readable game data fo
 }
 ```
 
+## How the Data Was Extracted
+
+4 Python scripts in a pipeline:
+
+### 1. `scrape-foxhole-crates.py` — Wiki scraping
+
+- Source: [foxhole.wiki.gg](https://foxhole.wiki.gg)
+- Scrapes table pages (Ammunition, Weapons) for "In Crate" columns
+- Visits individual item pages (Medical, Supplies, Equipment, Uniforms...) to extract infobox data
+- Automatic discovery phase via wiki link crawling
+- Output: `foxhole-crate-items.json` (name, icon, quantity/crate, category, wiki link)
+
+### 2. `clean-crate-data.py` — Wiki data cleanup
+
+- Removes false positives (non-item pages like "Update 0.46")
+- Fixes categories (uniforms detected as Equipment, large materials, liquids...)
+- Fixes broken icons (filter icons replaced with actual item icons)
+- Re-fetches icons from the wiki when needed
+
+### 3. `extract-foxhole-icons.py` — Game file extraction
+
+- Reads Foxhole's `.pak` file directly (`War-WindowsNoEditor.pak` from Steam)
+- Custom UE4 PAK v8 parser (magic, footer, index, ZLIB decompression)
+- Extracts `.uasset`/`.uexp` textures from `Textures/UI/` (items, vehicles, structures, maps)
+- A pre-existing `catalog.json` (extracted from game data via a third-party tool like FModel) guides which assets to extract
+
+### 4. `build-catalog.py` — Final catalog assembly
+
+- Merges the `catalog.json` (extracted game data) with local PNG icons
+- Enriches each item: production costs, weapon/ammo/vehicle stats, slots, weight
+- Resolves UE4 paths to local PNGs
+- Output: `foxhole-catalog.json` (367KB, complete catalog)
+
+### Data Sources
+
+| Source | Data |
+|--------|------|
+| [foxhole.wiki.gg](https://foxhole.wiki.gg) | Quantities per crate, display names, wiki links |
+| Game `.pak` file (Steam) | Raw textures/icons |
+| `catalog.json` (pre-extracted via FModel or similar) | Internal game data (CodeName, stats, costs, UE4 categories) |
+
 ## Use Cases
 
 - Companion websites and apps
